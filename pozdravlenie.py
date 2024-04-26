@@ -143,7 +143,6 @@ def open_window_3():#если мы нажали отмена при получе
     button3.photo = photo3
     button3.pack(side='left', padx=20, pady=110)
     root.withdraw()
-
 root = tk.Tk()
 root.title('ПОЗДРАВЛЕНИЕ!!!')
 root.geometry('800x600')
